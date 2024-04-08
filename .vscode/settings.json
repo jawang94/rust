@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./advanced_features/hello_macro/hello_macro_derive/Cargo.toml",
+    "./advanced_features/hello_macro/hello_macro_derive/Cargo.toml"
+  ]
+}
